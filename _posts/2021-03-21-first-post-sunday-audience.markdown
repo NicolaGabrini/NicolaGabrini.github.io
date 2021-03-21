@@ -5,7 +5,7 @@ date:   2021-03-21 17:10:13 +0100
 categories: Angelus Francis Mass Idolatry
 ---
 
-There is nothing like reading a [Sunday Angelus](http://www.vatican.va/content/francesco/en/angelus/2021/documents/papa-francesco_angelus_20210321.html){:target="_blank"} address to make one start a blog to comment on the absurdities of our present hour.  Indeed, we have a few real gems today from the Vatican as we begin Passiontide (which was thrown out because it smacked of clerical moralism.  But let's get to the text:
+There is nothing like reading a [Sunday Angelus](http://www.vatican.va/content/francesco/en/angelus/2021/documents/papa-francesco_angelus_20210321.html){:target="_blank"} address to make one start a blog to comment on the absurdities of our present hour.  Indeed, we have a few real gems today from the Vatican as we begin Passiontide (which was thrown out because it smacked of clerical moralism).  But let's get to the text:
 
 >The sign of the Cross comes to mind, which over the centuries has become the symbol par excellence of Christians. Even today, those who wish to “see Jesus”, perhaps coming from countries and cultures where Christianity is not well-known, what do they see first? What is the most common sign they encounter? The Crucifix, the Cross.
 
