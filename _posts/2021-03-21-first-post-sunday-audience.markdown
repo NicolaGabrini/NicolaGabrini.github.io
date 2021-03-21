@@ -9,7 +9,7 @@ There is nothing like reading a [Sunday Angelus](http://www.vatican.va/content/f
 
 >The sign of the Cross comes to mind, which over the centuries has become the symbol par excellence of Christians. Even today, those who wish to “see Jesus”, perhaps coming from countries and cultures where Christianity is not well-known, what do they see first? What is the most common sign they encounter? The Crucifix, the Cross.
 
-Ok, this is clear that we are "over" Passiontide, because the crosses are all covered in the Churches today.  He is showing remarkable liberty of spirit from the past, or perhaps just sheer ignorance of other liturgical traditions.
+Ok, it is clear that we are "over" Passiontide, because the crosses are all covered in the Churches today.  He is showing remarkable liberty of spirit from the past, or perhaps just sheer ignorance of other liturgical traditions.
 
 >The witness of a life that is given in service...means sowing seeds of love, not with fleeting words but through concrete, simple and courageous examples, not with theoretical condemnations, but with gestures of love.
 
