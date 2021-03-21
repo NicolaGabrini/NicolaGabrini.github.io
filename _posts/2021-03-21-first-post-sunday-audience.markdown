@@ -17,7 +17,7 @@ Great!  Service does not mean condemnation, let alone theoretical condemnation! 
 
 >Then the Lord, with his grace, makes us bear fruit, even when the soil is dry due to misunderstandings, difficulty or persecution, or claims of legalism or clerical moralism. This is barren soil.
 
-This one required consultation of the Italian, which also bears the same [anacoluthon](https://en.wikipedia.org/wiki/Anacoluthon).  It seems like he wants to criticise legalism or clerical moralism, but the sentence says that the Lord makes even these bear fruit. Indeed, too much fruit, and that fruit cannot be seen celebrating Mass in the St Peter's Basilica.
+This one required consultation of the Italian, which also bears the same [anacoluthon](https://en.wikipedia.org/wiki/Anacoluthon).  It seems like he wants to criticise legalism or clerical moralism, but the sentence says that the Lord makes even these bear fruit. Indeed, too much fruit, and that fruit cannot be seen celebrating Mass in St Peter's Basilica.
 
 >The mafia are present in various parts of the world and, exploiting the pandemic, they are enriching themselves through corruption. Saint John Paul II denounced their “culture of death”...
 
