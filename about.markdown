@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Posts
-permalink: /about/
+permalink: /posts/
 ---
 
 
