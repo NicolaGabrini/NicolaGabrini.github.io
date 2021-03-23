@@ -8,31 +8,9 @@ layout: default
   {%- endif -%}
 {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
   {{ content }}
-<h5><a href="#post-list">Previous Posts</a></h5>
 <h1>{{ site.posts.first.title }}</h1>
 
 <span class="post-meta">{{ site.posts.first.date | date: date_format }}</span>
 {{ site.posts.first.content }}
   
-  {%- if site.posts.size > 0 -%}
-    <h2 id="post-list" class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-
-  {%- endif -%}
-
 </div>
