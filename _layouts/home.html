@@ -11,7 +11,7 @@ layout: default
 <h5><a href="#post-list">Previous Posts</a></h5>
 <h1>{{ site.posts.first.title }}</h1>
 
-<span class="post-meta">{{ post.date | date: date_format }}</span>
+<span class="post-meta">{{ site.posts.first.date | date: date_format }}</span>
 {{ site.posts.first.content }}
   
   {%- if site.posts.size > 0 -%}
