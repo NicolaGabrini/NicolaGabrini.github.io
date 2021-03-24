@@ -64,11 +64,13 @@ prose:
       - name: "category"
         field:
           element: "text"
-          value: "post"
+          value: ""
+          placeholder: "untagged"
       - name: "layout"
         field:
           element: "hidden"
           value: "post"
+          label: "Layout"
       - name: "title"
         field:
           element: "text"
