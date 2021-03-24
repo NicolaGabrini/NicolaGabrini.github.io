@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: vatican-holy-week-2021
+title: Vatican Holy Week 2021
 category: Francis Triduum Vatican kids
 ---
 A few comments about the [Holy Week schedule](https://bit.ly/2NSyTKo) for the Vatican:
