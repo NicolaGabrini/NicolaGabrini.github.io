@@ -56,7 +56,7 @@ plugins:
 
 
 prose:
-  rooturl: '/'
+  #rooturl: '_posts'
   siteurl: 'https://NicolaGabrini.github.io/'
   media: 'media'
   metadata:
