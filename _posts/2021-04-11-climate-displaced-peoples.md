@@ -8,7 +8,7 @@ You probably did not notice during Holy Week that a [document of great importanc
 
 >I suggest we adapt Hamlet’s famous “to be or not to be” and affirm: “To see or not to see, that is the question!” Where it starts is with each one’s seeing, yes, mine and yours.
 
-So it is admitted that we might not see the reality of climate displaced peoples, but it goes on:
+The Pope is not afraid to quote Shakespeare! It is a classic case of his gaslighting us--how could we be so brutal as not to be preposed about climate displaced peoples? So it is admitted that we might not see the reality of climate displaced peoples, but it goes on:
 >We are engulfed by news and images of whole peoples uprooted by cataclysmic changes in our climate, forced to migrate.
 
 This is only a sign for me that I am living on a different planet, or do not have access to the Vatican internal news that reports on the global environmental crisis and the masses of migrating peoples displaced due to climate change.
@@ -18,4 +18,3 @@ The "when" seems important.  I ask: when are these people going to be displaced?
 >For a long time the [climate crisis] developed so slowly that it remained imperceptible except to a very few clairvoyants. Even now it is uneven in its impact: climate change happens everywhere, but the greatest pain is felt by those who have contributed the least to it.
 
 Clairvoyants?  Interesting, like those mediums that popularized witchcraft in the 19th century?  But it is clear that these movements will necessarily carry forward the logic of class conflict, as this is the metaphysical principle that is a premise for the Pontiff's outlook on [the interpretation of reality](https://bit.ly/2Qi8l5P). I leave the rest to your pious reading...
-
