@@ -8,7 +8,7 @@ You probably did not notice during Holy Week that a [document of great importanc
 
 >I suggest we adapt Hamlet’s famous “to be or not to be” and affirm: “To see or not to see, that is the question!” Where it starts is with each one’s seeing, yes, mine and yours.
 
-The Pope is not afraid to quote Shakespeare! It is a classic case of his gaslighting us--how could we be so brutal as not to be preposed about climate displaced peoples? So it is admitted that we might not see the reality of climate displaced peoples, but it goes on:
+The Pope is not afraid to quote Shakespeare! It is a classic case of his gaslighting us--how could we be so brutal as not to be prepossessed about climate displaced peoples? So it is admitted that we might not see the reality of climate displaced peoples, but it goes on:
 >We are engulfed by news and images of whole peoples uprooted by cataclysmic changes in our climate, forced to migrate.
 
 This is only a sign for me that I am living on a different planet, or do not have access to the Vatican internal news that reports on the global environmental crisis and the masses of migrating peoples displaced due to climate change.
