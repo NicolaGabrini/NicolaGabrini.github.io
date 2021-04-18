@@ -4,7 +4,7 @@ published: true
 title: Ramadan and the Circus
 category: circus Islam
 ---
-It is necessary to sometimes go beyond the limited scope of strictly Papal documents to understand how much the Holy See is expanding its ministry to the periferies.  There were two documents this past week published under the aegis of various dicasteries which highlight some of the most important concerns of Catholics of our times: [ramadan](https://bit.ly/3x3UelG) and [the circus](https://bit.ly/3sycjVn).
+It is necessary to sometimes go beyond the limited scope of strictly Papal documents to understand how much the Holy See is expanding its ministry to the peripheries.  There were two documents this past week published under the aegis of various dicasteries which highlight some of the most important concerns of Catholics of our times: [ramadan](https://bit.ly/3x3UelG) and [the circus](https://bit.ly/3sycjVn).
 
 >As it is well known, the pastoral care of circus artists is among the tasks of the Dicastery for Promoting Integral Human Development.
 
