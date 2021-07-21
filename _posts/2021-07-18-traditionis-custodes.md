@@ -3,8 +3,6 @@ layout: post
 published: true
 title: Traditionis Custodes
 ---
-## Traditionis Custodes
-
 When an animal knows that its life is in the balance, when it feels what we could call a mortal fear, it becomes more dangerous, and, in a way, stronger than it ever was. Nature gives every animal such a love and a desire to remain in existence that it can summon to itself powers otherwise inaccessible when the prospect of death presents itself. For one who has butchered animals, this is obvious. The methods of dispatching both wild game and domesticated stock are calculated not only at preserving the quality of the meat, but also intend to protect the hunter or butcher. The animal is killed so as to limit damage to either, but also its awareness of the proximate danger. When the work is botched there is risk to both the hunter and hunted, or to the butcherer and butchered.
 
 When a certain movement or social entity approaches its inevitable end, as everything merely human does, it often shows the same vigor. Such is the experience of the Church in the last couple of months. When the logical intentions of a group cannot be attained, when the absurdities of an ecclesial party have come to their logical dead end, then rules of the game, in an effort at a last ditch effort of preservation, are changed; their efforts begin to result in random and poorly thrown blows. These attempts to strike may indeed attain their intended target; they may wound and stun, but they are not coordinated, and the wise fighter will avoid the prey until it bleeds out and passes, and such will inevitably come.
@@ -14,4 +12,3 @@ Thus I wish to tell my friends in the present moment: take heart, the moment of 
 The light is dawning on a new day in the Church. The young will live to see the end of the Novus Ordo, and the rise of the Mass formerly known as the Extraordinary form. It will be known in the future as the Roman Rite. The wretched theology of the destroyers of tradition will pass into the waste heaps of history, along with their banal on-the-spot fabrications. What will remain is the Church, unchanged, strengthened, and prepared for the sufferings that will proceed the coming of Christ.
 
 If I am wrong, then we will all suffer from the persecution that we will find within the Church, and this will be the means of our sanctification. And those who have become wolves in the guise of sheep, or even in the persons of shepherds, must repent. For this we must pray because if they do not, they will burn in hell along with all the horrible innovations of history; and we will too, if we betray the Tradition as they have done.
-
