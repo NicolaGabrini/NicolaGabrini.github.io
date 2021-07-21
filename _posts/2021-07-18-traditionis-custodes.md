@@ -4,7 +4,6 @@ published: true
 title: Traditionis Custodes
 ---
 ## Traditionis Custodes
-A few reflections on the Motu Proprio
 
 When an animal knows that its life is in the balance, when it feels what we could call a mortal fear, it becomes more dangerous, and, in a way, stronger than it ever was. Nature gives every animal such a love and a desire to remain in existence that it can summon to itself powers otherwise inaccessible when the prospect of death presents itself. For one who has butchered animals, this is obvious. The methods of dispatching both wild game and domesticated stock are calculated not only at preserving the quality of the meat, but also intend to protect the hunter or butcher. The animal is killed so as to limit damage to either, but also its awareness of the proximate dangere. When the work is botched there is risk to both the hunter and hunted, or to the butcherer and butchered.
 
