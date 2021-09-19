@@ -13,5 +13,5 @@ What do they mean? I am admit that I do think of myself as the true Church, at l
 
 Further, the citation of *Amoris Laetitia* is disingenuous. Unlike the dubia Cardinals, they have said nothing corporately about this document and the confusion that it has caused. Pretending that it really should be a guide of the supposed dialogue with the Holy See about their continued existence is to pretend like they really accept the things that are found in that document. It's a delicate political nuance, but it is not what they would say in private, it's just talk...
 
-And the Vatican does not care...
+...and the Vatican does not care!
 
