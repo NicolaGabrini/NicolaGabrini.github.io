@@ -2,6 +2,7 @@
 layout: post
 published: false
 title: Morally Compromised
+category: covid vaccine
 ---
 I cannot avoid the fact that many around me, even in the traditional world, are vaccinated. If that was not already a problem, they often are not in the slightest bit ashamed, or want to enter into conversations about the liceity of taking these experimental vaccines developed through immoral research on aborted fetal cell lines. It is hardly honest to do such a thing. Maybe they are having doubts, maybe they want to convince me that they made the right choice and that they would like me to do the same. Meanwhile, their decisions have oftenbeen based more on convenience than on the real value of the vaccine or on the actual moral character of the decision (the ramblings from certain residents of Casa Santa Marta imply that taking the vaccine might even be a morally praiseworthy action).
 
