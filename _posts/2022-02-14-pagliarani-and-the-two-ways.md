@@ -4,7 +4,10 @@ published: true
 title: Pagliarani and the two ways
 category: SSPX TC
 ---
+### On [Pagliarani's We must maintain Tradition](https://fsspx.news/en/news-events/news/we-must-maintain-tradition-and-pass-it-71504){:target="_blank"}
+
 From my awareness of the traditional movement in 2001, I had been always very negative about the SPPX and the consecrations of Lefebvre. This is partly due to the more extreme nature of the priests and faithful in the US. But also because of a deep love for even the institutional church that I learned from my father. As a young traditional priest, I have always benefitted in my priestly life from the Paix Liturgique that Benedict instituted. But the present pontificate and especially Traditionis Custodes changed all of that. 
+
 Life sometimes presents very difficult practical choices that may excuse to some degree the responsibility of those involved. It would seem that the pressure of the situation in 1988 put Monsignor Lefebvre in such a position.
 
 Pagliarani does well in pointing out the condemnation in Ecclesia Dei. But he does not analyze it as I do. It seems, rather to me, that the error is to connect the practical question of the consecrations with theological positions. I do not think that it was an act of theological resistance, so much of practical resistance. To turn it into a defence of a view of tradition (whether to condemn or to approve) seems to me to err in making something more than it was. This error seems to be committed by JPII and Pagliarani.
