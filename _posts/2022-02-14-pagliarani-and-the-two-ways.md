@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Pagliarani and the two ways
 category: SSPX TC
 ---
